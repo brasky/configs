@@ -25,8 +25,24 @@
             "hidden": false
         },
         {
+            "guid": "{78e390db-1bff-4533-9d7c-20f53d8bafa1}",
+            "name": "WSL",
+            "colorscheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "commandline": "wsl ~",
+            "fontFace": "Consolas",
+            "fontSize": 12,
+            "acrylicOpacity": 0.75,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0"
+        },
+        {
             "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-            "hidden": false,
+            "hidden": true,
             "name": "Azure Cloud Shell",
             "source": "Windows.Terminal.Azure"
         }
